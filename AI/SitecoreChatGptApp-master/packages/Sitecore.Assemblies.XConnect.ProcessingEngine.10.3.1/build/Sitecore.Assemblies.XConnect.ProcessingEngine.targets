@@ -1,0 +1,1013 @@
+<?xml version="1.0"?>
+<Project>
+  <ItemGroup>
+    <SitecoreAssemblies Include="Azure.Core.dll">
+      <Name>Azure.Core.dll</Name>
+      <Version>1.1.0.0</Version>
+      <FileVersion>1.100.20.15607</FileVersion>
+      <InfoVersion>1.1.0+4b30e37b6eab8bc2ea12fe51fe6a89e63babbde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Azure.Storage.Blobs.dll">
+      <Name>Azure.Storage.Blobs.dll</Name>
+      <Version>12.2.0.0</Version>
+      <FileVersion>12.200.20.5907</FileVersion>
+      <InfoVersion>12.2.0+7b41d66f3c611eb2113e2ec11cb56e7edf542628</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Azure.Storage.Common.dll">
+      <Name>Azure.Storage.Common.dll</Name>
+      <Version>12.3.0.0</Version>
+      <FileVersion>12.300.20.16106</FileVersion>
+      <InfoVersion>12.3.0+44e3a885d76ef753b2dd7bb177639c036c585617</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Azure.Storage.Files.Shares.dll">
+      <Name>Azure.Storage.Files.Shares.dll</Name>
+      <Version>12.2.0.0</Version>
+      <FileVersion>12.200.20.16106</FileVersion>
+      <InfoVersion>12.2.0+44e3a885d76ef753b2dd7bb177639c036c585617</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Dapper.dll">
+      <Name>Dapper.dll</Name>
+      <Version>1.50.4.0</Version>
+      <FileVersion>1.50.4.0</FileVersion>
+      <InfoVersion>1.50.4</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.AI.Agent.Intercept.dll">
+      <Name>Microsoft.AI.Agent.Intercept.dll</Name>
+      <Version>2.4.0.0</Version>
+      <FileVersion>2.4.0.105563</FileVersion>
+      <InfoVersion>2.4.0.105563</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.AI.DependencyCollector.dll">
+      <Name>Microsoft.AI.DependencyCollector.dll</Name>
+      <Version>2.5.1.0</Version>
+      <FileVersion>2.5.1.195</FileVersion>
+      <InfoVersion>2.5.1.195</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.ApplicationInsights.dll">
+      <Name>Microsoft.ApplicationInsights.dll</Name>
+      <Version>2.5.1.0</Version>
+      <FileVersion>2.5.1.172</FileVersion>
+      <InfoVersion>2.5.1.172</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Azure.KeyVault.dll">
+      <Name>Microsoft.Azure.KeyVault.dll</Name>
+      <Version>2.0.0.0</Version>
+      <FileVersion>2.3.2.0</FileVersion>
+      <InfoVersion>2.3.2</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Azure.KeyVault.WebKey.dll">
+      <Name>Microsoft.Azure.KeyVault.WebKey.dll</Name>
+      <Version>2.0.0.0</Version>
+      <FileVersion>2.0.7.0</FileVersion>
+      <InfoVersion>2.0.7</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <Name>Microsoft.Bcl.AsyncInterfaces.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Configuration.ConfigurationBuilders.Base.dll">
+      <Name>Microsoft.Configuration.ConfigurationBuilders.Base.dll</Name>
+      <Version>1.0.0.0</Version>
+      <FileVersion>1.0.30709.0</FileVersion>
+      <InfoVersion>1.0.2-30709</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Configuration.ConfigurationBuilders.Environment.dll">
+      <Name>Microsoft.Configuration.ConfigurationBuilders.Environment.dll</Name>
+      <Version>1.0.0.0</Version>
+      <FileVersion>1.0.30709.0</FileVersion>
+      <InfoVersion>1.0.2-30709</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <Name>Microsoft.Extensions.Configuration.Abstractions.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Configuration.Binder.dll">
+      <Name>Microsoft.Extensions.Configuration.Binder.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Configuration.CommandLine.dll">
+      <Name>Microsoft.Extensions.Configuration.CommandLine.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Configuration.dll">
+      <Name>Microsoft.Extensions.Configuration.dll</Name>
+      <Version>6.0.0.1</Version>
+      <FileVersion>6.0.322.12309</FileVersion>
+      <InfoVersion>6.0.3+c24d9a9c91c5d04b7b4de71f1a9f33ac35e09663</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Configuration.EnvironmentVariables.dll">
+      <Name>Microsoft.Extensions.Configuration.EnvironmentVariables.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <Name>Microsoft.Extensions.Configuration.FileExtensions.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Configuration.Ini.dll">
+      <Name>Microsoft.Extensions.Configuration.Ini.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Configuration.Json.dll">
+      <Name>Microsoft.Extensions.Configuration.Json.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Configuration.Xml.dll">
+      <Name>Microsoft.Extensions.Configuration.Xml.dll</Name>
+      <Version>2.2.0.0</Version>
+      <FileVersion>2.2.0.18315</FileVersion>
+      <InfoVersion>2.2.0-rtm-181110-01+pb-20181110-02</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <Name>Microsoft.Extensions.DependencyInjection.Abstractions.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.DependencyInjection.dll">
+      <Name>Microsoft.Extensions.DependencyInjection.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.DependencyModel.dll">
+      <Name>Microsoft.Extensions.DependencyModel.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll">
+      <Name>Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52608</FileVersion>
+      <InfoVersion>6.0.0+ae1a6cbe225b99c0bf38b7e31bf60cb653b73a52</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <Name>Microsoft.Extensions.FileProviders.Abstractions.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.FileProviders.Physical.dll">
+      <Name>Microsoft.Extensions.FileProviders.Physical.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.FileSystemGlobbing.dll">
+      <Name>Microsoft.Extensions.FileSystemGlobbing.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <Name>Microsoft.Extensions.Logging.Abstractions.dll</Name>
+      <Version>6.0.0.1</Version>
+      <FileVersion>6.0.322.12309</FileVersion>
+      <InfoVersion>6.0.3+c24d9a9c91c5d04b7b4de71f1a9f33ac35e09663</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Logging.dll">
+      <Name>Microsoft.Extensions.Logging.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Options.dll">
+      <Name>Microsoft.Extensions.Options.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Extensions.Primitives.dll">
+      <Name>Microsoft.Extensions.Primitives.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.IdentityModel.Clients.ActiveDirectory.dll">
+      <Name>Microsoft.IdentityModel.Clients.ActiveDirectory.dll</Name>
+      <Version>4.5.0.0</Version>
+      <FileVersion>4.5.0.0</FileVersion>
+      <InfoVersion>4.5.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Owin.dll">
+      <Name>Microsoft.Owin.dll</Name>
+      <Version>4.2.2.0</Version>
+      <FileVersion>4.200.222.26002</FileVersion>
+      <InfoVersion>4.2.2+dbecd0d61958f8bb48263e31bd7344b25fc2d4da</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Owin.Host.HttpListener.dll">
+      <Name>Microsoft.Owin.Host.HttpListener.dll</Name>
+      <Version>2.0.2.0</Version>
+      <FileVersion>2.0.21107.459</FileVersion>
+      <InfoVersion>2.0.2</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Owin.Hosting.dll">
+      <Name>Microsoft.Owin.Hosting.dll</Name>
+      <Version>2.0.2.0</Version>
+      <FileVersion>2.0.21107.459</FileVersion>
+      <InfoVersion>2.0.2</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Rest.ClientRuntime.Azure.dll">
+      <Name>Microsoft.Rest.ClientRuntime.Azure.dll</Name>
+      <Version>3.0.0.0</Version>
+      <FileVersion>3.3.7.0</FileVersion>
+      <InfoVersion>3.3.7</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.Rest.ClientRuntime.dll">
+      <Name>Microsoft.Rest.ClientRuntime.dll</Name>
+      <Version>2.0.0.0</Version>
+      <FileVersion>2.3.8.0</FileVersion>
+      <InfoVersion>2.3.8</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider.dll">
+      <Name>Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider.dll</Name>
+      <Version>14.0.0.0</Version>
+      <FileVersion>14.0.16107.0 ((SSMS_Main).170315-1904)</FileVersion>
+      <InfoVersion>14.0.16107.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Newtonsoft.Json.dll">
+      <Name>Newtonsoft.Json.dll</Name>
+      <Version>13.0.0.0</Version>
+      <FileVersion>13.0.1.25517</FileVersion>
+      <InfoVersion>13.0.1+ae9fe44e1323e91bcbd185ca1a14099fba7c021f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Owin.dll">
+      <Name>Owin.dll</Name>
+      <Version>1.0.0.0</Version>
+      <FileVersion>1.0</FileVersion>
+      <InfoVersion>1.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Polly.dll">
+      <Name>Polly.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.1.2.0</FileVersion>
+      <InfoVersion>6.1.2.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Remotion.Linq.dll">
+      <Name>Remotion.Linq.dll</Name>
+      <Version>2.2.0.0</Version>
+      <FileVersion>2.2.0.30000</FileVersion>
+      <InfoVersion>2.2.0+Release.Commit-9be8fec0618f02a0e66edb058c390c8fa40d92a7</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Serilog.dll">
+      <Name>Serilog.dll</Name>
+      <Version>2.0.0.0</Version>
+      <FileVersion>2.6.0.0</FileVersion>
+      <InfoVersion>2.6.0-master-9a3b037</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Serilog.Extensions.Logging.dll">
+      <Name>Serilog.Extensions.Logging.dll</Name>
+      <Version>2.0.0.0</Version>
+      <FileVersion>2.0.2.0</FileVersion>
+      <InfoVersion>2.0.2</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Serilog.Settings.Configuration.dll">
+      <Name>Serilog.Settings.Configuration.dll</Name>
+      <Version>2.6.1.0</Version>
+      <FileVersion>2.6.1.0</FileVersion>
+      <InfoVersion>2.6.1</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Serilog.Sinks.ApplicationInsights.dll">
+      <Name>Serilog.Sinks.ApplicationInsights.dll</Name>
+      <Version>2.6.0.0</Version>
+      <FileVersion>2.6.0.0</FileVersion>
+      <InfoVersion>2.6.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Serilog.Sinks.File.dll">
+      <Name>Serilog.Sinks.File.dll</Name>
+      <Version>2.0.0.0</Version>
+      <FileVersion>4.0.0.0</FileVersion>
+      <InfoVersion>4.0.0-master-6d463c0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Serilog.Sinks.RollingFile.dll">
+      <Name>Serilog.Sinks.RollingFile.dll</Name>
+      <Version>2.0.0.0</Version>
+      <FileVersion>3.3.0.0</FileVersion>
+      <InfoVersion>3.3.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Serilog.Sinks.Trace.dll">
+      <Name>Serilog.Sinks.Trace.dll</Name>
+      <Version>2.0.0.0</Version>
+      <FileVersion>2.1.0.0</FileVersion>
+      <InfoVersion>2.1.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Async.Extensions.Legacy.dll">
+      <Name>Sitecore.Async.Extensions.Legacy.dll</Name>
+      <Version>5.0.0.0</Version>
+      <FileVersion>5.0.273.2918</FileVersion>
+      <InfoVersion>5.0.273+66d2ea6da89643bbff09af487c8de656bf20e25f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.ContentTesting.ML.Core.Abstractions.dll">
+      <Name>Sitecore.ContentTesting.ML.Core.Abstractions.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.447.2731</FileVersion>
+      <InfoVersion>7.0.447+0a612128d0a2ad08575100f4d83ca1505ac39522</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.ContentTesting.ML.Core.dll">
+      <Name>Sitecore.ContentTesting.ML.Core.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.447.2731</FileVersion>
+      <InfoVersion>7.0.447+0a612128d0a2ad08575100f4d83ca1505ac39522</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.ContentTesting.ML.dll">
+      <Name>Sitecore.ContentTesting.ML.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.447.2731</FileVersion>
+      <InfoVersion>7.0.447+0a612128d0a2ad08575100f4d83ca1505ac39522</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.ContentTesting.Reporting.Model.dll">
+      <Name>Sitecore.ContentTesting.Reporting.Model.dll</Name>
+      <Version>19.0.0.0</Version>
+      <FileVersion>19.0.4609.16831</FileVersion>
+      <InfoVersion>19.0.4609+b84a095f79c74118c8d710a1811620d003a9b271</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.EmailCampaign.Model.dll">
+      <Name>Sitecore.EmailCampaign.Model.dll</Name>
+      <Version>13.0.0.0</Version>
+      <FileVersion>13.0.5331.20317</FileVersion>
+      <InfoVersion>13.0.5331+7cde6ce3cd930827fd31940e820f5b8242f42c04</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.Conditions.dll">
+      <Name>Sitecore.Framework.Conditions.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.0.0</FileVersion>
+      <InfoVersion>6.0.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.Configuration.Abstractions.dll">
+      <Name>Sitecore.Framework.Configuration.Abstractions.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.0.154</FileVersion>
+      <InfoVersion>7.0.0+6c4e4b8cf0ed76ea55bf4191daace30bb2bc870b</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.Configuration.Common.dll">
+      <Name>Sitecore.Framework.Configuration.Common.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.0.154</FileVersion>
+      <InfoVersion>7.0.0+6c4e4b8cf0ed76ea55bf4191daace30bb2bc870b</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.Configuration.dll">
+      <Name>Sitecore.Framework.Configuration.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.0.154</FileVersion>
+      <InfoVersion>7.0.0+6c4e4b8cf0ed76ea55bf4191daace30bb2bc870b</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.Configuration.Extensions.dll">
+      <Name>Sitecore.Framework.Configuration.Extensions.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.0.154</FileVersion>
+      <InfoVersion>7.0.0+6c4e4b8cf0ed76ea55bf4191daace30bb2bc870b</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.Configuration.Xml.dll">
+      <Name>Sitecore.Framework.Configuration.Xml.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.0.154</FileVersion>
+      <InfoVersion>7.0.0+6c4e4b8cf0ed76ea55bf4191daace30bb2bc870b</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.TransientFaultHandling.Abstractions.dll">
+      <Name>Sitecore.Framework.TransientFaultHandling.Abstractions.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.0.0</FileVersion>
+      <InfoVersion>4.0.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.TransientFaultHandling.dll">
+      <Name>Sitecore.Framework.TransientFaultHandling.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.0.0</FileVersion>
+      <InfoVersion>4.0.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.TransientFaultHandling.EntLib.dll">
+      <Name>Sitecore.Framework.TransientFaultHandling.EntLib.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.0.0</FileVersion>
+      <InfoVersion>4.0.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Framework.TransientFaultHandling.Sql.dll">
+      <Name>Sitecore.Framework.TransientFaultHandling.Sql.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.0.0</FileVersion>
+      <InfoVersion>4.0.0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Nexus.Consumption.dll">
+      <Name>Sitecore.Nexus.Consumption.dll</Name>
+      <Version>1.0.0.0</Version>
+      <FileVersion>1.5.0.0</FileVersion>
+      <InfoVersion>1.5.0-r00146</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Nexus.Licensing.dll">
+      <Name>Sitecore.Nexus.Licensing.dll</Name>
+      <Version>2.0.0.0</Version>
+      <FileVersion>2.0.6.0</FileVersion>
+      <InfoVersion>2.0.6-r00062</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Common.dll">
+      <Name>Sitecore.Processing.Common.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Common.Sql.dll">
+      <Name>Sitecore.Processing.Common.Sql.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Cursors.Abstractions.dll">
+      <Name>Sitecore.Processing.Cursors.Abstractions.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Cursors.Sql.dll">
+      <Name>Sitecore.Processing.Cursors.Sql.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Engine.Abstractions.dll">
+      <Name>Sitecore.Processing.Engine.Abstractions.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Engine.dll">
+      <Name>Sitecore.Processing.Engine.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Engine.ML.Abstractions.dll">
+      <Name>Sitecore.Processing.Engine.ML.Abstractions.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Engine.ML.dll">
+      <Name>Sitecore.Processing.Engine.ML.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Engine.Model.dll">
+      <Name>Sitecore.Processing.Engine.Model.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Engine.Projection.dll">
+      <Name>Sitecore.Processing.Engine.Projection.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Engine.Storage.Abstractions.dll">
+      <Name>Sitecore.Processing.Engine.Storage.Abstractions.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Engine.Storage.dll">
+      <Name>Sitecore.Processing.Engine.Storage.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Engine.Storage.Sql.dll">
+      <Name>Sitecore.Processing.Engine.Storage.Sql.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Tasks.Abstractions.dll">
+      <Name>Sitecore.Processing.Tasks.Abstractions.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Tasks.Options.dll">
+      <Name>Sitecore.Processing.Tasks.Options.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Processing.Tasks.Sql.dll">
+      <Name>Sitecore.Processing.Tasks.Sql.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.684.8417</FileVersion>
+      <InfoVersion>7.0.684+d38b1ca1c888131ffd9fb129974ae91237e56738</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Reporting.Client.dll">
+      <Name>Sitecore.Reporting.Client.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.275.5897</FileVersion>
+      <InfoVersion>6.0.275+b137dadf7ce2014f69f2e541d5eaa1f44cf5011f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Reporting.Core.dll">
+      <Name>Sitecore.Reporting.Core.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.275.5897</FileVersion>
+      <InfoVersion>6.0.275+b137dadf7ce2014f69f2e541d5eaa1f44cf5011f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Reporting.Data.Abstractions.dll">
+      <Name>Sitecore.Reporting.Data.Abstractions.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.275.5897</FileVersion>
+      <InfoVersion>6.0.275+b137dadf7ce2014f69f2e541d5eaa1f44cf5011f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Reporting.Data.Sql.dll">
+      <Name>Sitecore.Reporting.Data.Sql.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.275.5897</FileVersion>
+      <InfoVersion>6.0.275+b137dadf7ce2014f69f2e541d5eaa1f44cf5011f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Reporting.Service.Abstractions.dll">
+      <Name>Sitecore.Reporting.Service.Abstractions.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.275.5897</FileVersion>
+      <InfoVersion>6.0.275+b137dadf7ce2014f69f2e541d5eaa1f44cf5011f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Reporting.Service.Data.dll">
+      <Name>Sitecore.Reporting.Service.Data.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.275.5897</FileVersion>
+      <InfoVersion>6.0.275+b137dadf7ce2014f69f2e541d5eaa1f44cf5011f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Client.Configuration.XConnect.dll">
+      <Name>Sitecore.XConnect.Client.Configuration.XConnect.dll</Name>
+      <Version>8.0.0.0</Version>
+      <FileVersion>8.0.371.3253</FileVersion>
+      <InfoVersion>8.0.371+2c19577dfdf63956c5a44238267a47ed8a0819a1</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Client.dll">
+      <Name>Sitecore.XConnect.Client.dll</Name>
+      <Version>8.0.0.0</Version>
+      <FileVersion>8.0.699.4564</FileVersion>
+      <InfoVersion>8.0.699+d4948bb0b36c48b93755f2253c64e044f3f05fa7</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Collection.Model.dll">
+      <Name>Sitecore.XConnect.Collection.Model.dll</Name>
+      <Version>8.0.0.0</Version>
+      <FileVersion>8.0.699.4564</FileVersion>
+      <InfoVersion>8.0.699+d4948bb0b36c48b93755f2253c64e044f3f05fa7</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Configuration.dll">
+      <Name>Sitecore.XConnect.Configuration.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.145.2611</FileVersion>
+      <InfoVersion>4.0.145+f4f42cff4bf4c81f5a7704ccf85f7437f2d598d0</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Core.dll">
+      <Name>Sitecore.XConnect.Core.dll</Name>
+      <Version>5.0.0.0</Version>
+      <FileVersion>5.0.273.2918</FileVersion>
+      <InfoVersion>5.0.273+66d2ea6da89643bbff09af487c8de656bf20e25f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.DataTools.Abstractions.dll">
+      <Name>Sitecore.XConnect.DataTools.Abstractions.dll</Name>
+      <Version>3.0.0.0</Version>
+      <FileVersion>3.0.708.1889</FileVersion>
+      <InfoVersion>3.0.708+6f449ccd919c1f6dc0c21baa02e7c254b6abbc89</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.DataTools.Conditions.dll">
+      <Name>Sitecore.XConnect.DataTools.Conditions.dll</Name>
+      <Version>3.0.0.0</Version>
+      <FileVersion>3.0.708.1889</FileVersion>
+      <InfoVersion>3.0.708+6f449ccd919c1f6dc0c21baa02e7c254b6abbc89</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.DataTools.CortexWorkers.dll">
+      <Name>Sitecore.XConnect.DataTools.CortexWorkers.dll</Name>
+      <Version>3.0.0.0</Version>
+      <FileVersion>3.0.708.1889</FileVersion>
+      <InfoVersion>3.0.708+6f449ccd919c1f6dc0c21baa02e7c254b6abbc89</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.DataTools.Tasks.Options.dll">
+      <Name>Sitecore.XConnect.DataTools.Tasks.Options.dll</Name>
+      <Version>3.0.0.0</Version>
+      <FileVersion>3.0.708.1889</FileVersion>
+      <InfoVersion>3.0.708+6f449ccd919c1f6dc0c21baa02e7c254b6abbc89</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.DependencyInjection.dll">
+      <Name>Sitecore.XConnect.DependencyInjection.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.144.2591</FileVersion>
+      <InfoVersion>4.0.144+21240d2d7f2a8e2239153a742878f2ea3cc2515f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.DependencyInjection.Web.dll">
+      <Name>Sitecore.XConnect.DependencyInjection.Web.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.144.2591</FileVersion>
+      <InfoVersion>4.0.144+21240d2d7f2a8e2239153a742878f2ea3cc2515f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Diagnostics.ApplicationInsights.dll">
+      <Name>Sitecore.XConnect.Diagnostics.ApplicationInsights.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.144.2591</FileVersion>
+      <InfoVersion>4.0.144+21240d2d7f2a8e2239153a742878f2ea3cc2515f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Diagnostics.dll">
+      <Name>Sitecore.XConnect.Diagnostics.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.144.2591</FileVersion>
+      <InfoVersion>4.0.144+21240d2d7f2a8e2239153a742878f2ea3cc2515f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Diagnostics.PerformanceCounters.dll">
+      <Name>Sitecore.XConnect.Diagnostics.PerformanceCounters.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.144.2591</FileVersion>
+      <InfoVersion>4.0.144+21240d2d7f2a8e2239153a742878f2ea3cc2515f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.dll">
+      <Name>Sitecore.XConnect.dll</Name>
+      <Version>8.0.0.0</Version>
+      <FileVersion>8.0.699.4564</FileVersion>
+      <InfoVersion>8.0.699+d4948bb0b36c48b93755f2253c64e044f3f05fa7</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.HealthCheck.WebApi.dll">
+      <Name>Sitecore.XConnect.HealthCheck.WebApi.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.32.1417</FileVersion>
+      <InfoVersion>7.0.32+f24d92c870ee65ea48992f85bca4e846d2edb26f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Hosting.dll">
+      <Name>Sitecore.XConnect.Hosting.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.32.1417</FileVersion>
+      <InfoVersion>7.0.32+f24d92c870ee65ea48992f85bca4e846d2edb26f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Hosting.OwinSelfHost.dll">
+      <Name>Sitecore.XConnect.Hosting.OwinSelfHost.dll</Name>
+      <Version>7.0.0.0</Version>
+      <FileVersion>7.0.32.1417</FileVersion>
+      <InfoVersion>7.0.32+f24d92c870ee65ea48992f85bca4e846d2edb26f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Logging.Serilog.AppInsights.dll">
+      <Name>Sitecore.XConnect.Logging.Serilog.AppInsights.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.144.2591</FileVersion>
+      <InfoVersion>4.0.144+21240d2d7f2a8e2239153a742878f2ea3cc2515f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Logging.Serilog.dll">
+      <Name>Sitecore.XConnect.Logging.Serilog.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.144.2591</FileVersion>
+      <InfoVersion>4.0.144+21240d2d7f2a8e2239153a742878f2ea3cc2515f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.XConnect.Search.dll">
+      <Name>Sitecore.XConnect.Search.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.97.1964</FileVersion>
+      <InfoVersion>4.0.97+abbcfc33b7007654ca8319ccfa64b5e3a4fcde48</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Xdb.Common.HttpTransientFaultHandling.dll">
+      <Name>Sitecore.Xdb.Common.HttpTransientFaultHandling.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.138.2321</FileVersion>
+      <InfoVersion>6.0.138+782302be52240c4f35c06f32b152f4f11e19709e</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Xdb.Common.Web.dll">
+      <Name>Sitecore.Xdb.Common.Web.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.138.2321</FileVersion>
+      <InfoVersion>6.0.138+782302be52240c4f35c06f32b152f4f11e19709e</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Xdb.Sql.Common.Encryption.dll">
+      <Name>Sitecore.Xdb.Sql.Common.Encryption.dll</Name>
+      <Version>9.0.0.0</Version>
+      <FileVersion>9.0.151.2758</FileVersion>
+      <InfoVersion>9.0.151+630167427eb8ffdcd2a585d34149044b7fdd8e53</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="Sitecore.Xdb.Sql.Common.HealthCheck.dll">
+      <Name>Sitecore.Xdb.Sql.Common.HealthCheck.dll</Name>
+      <Version>9.0.0.0</Version>
+      <FileVersion>9.0.151.2758</FileVersion>
+      <InfoVersion>9.0.151+630167427eb8ffdcd2a585d34149044b7fdd8e53</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Buffers.dll">
+      <Name>System.Buffers.dll</Name>
+      <Version>4.0.3.0</Version>
+      <FileVersion>4.6.28619.01</FileVersion>
+      <InfoVersion>4.6.28619.01 @BuiltBy: dlab14-DDVSOWINAGE069 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/7601f4f6225089ffb291dc7d58293c7bbf5c5d4f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.ComponentModel.Annotations.dll">
+      <Name>System.ComponentModel.Annotations.dll</Name>
+      <Version>4.2.1.0</Version>
+      <FileVersion>4.6.26515.06</FileVersion>
+      <InfoVersion>4.6.26515.06 @BuiltBy: dlab-DDVSOWINAGE059 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/30ab651fcb4354552bd4891619a0bdd81e0ebdbf</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Configuration.ConfigurationManager.dll">
+      <Name>System.Configuration.ConfigurationManager.dll</Name>
+      <Version>4.0.1.0</Version>
+      <FileVersion>4.6.26515.06</FileVersion>
+      <InfoVersion>4.6.26515.06 @BuiltBy: dlab-DDVSOWINAGE059 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/30ab651fcb4354552bd4891619a0bdd81e0ebdbf</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Data.SqlClient.dll">
+      <Name>System.Data.SqlClient.dll</Name>
+      <Version>4.6.1.5</Version>
+      <FileVersion>4.700.22.51706</FileVersion>
+      <InfoVersion>3.1.31+1acb337ac383d3f7d4a30bd3e46ef771459baf03</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Diagnostics.DiagnosticSource.dll">
+      <Name>System.Diagnostics.DiagnosticSource.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Interactive.Async.dll">
+      <Name>System.Interactive.Async.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.0.2</FileVersion>
+      <InfoVersion>4.0.0+6ce573bea6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Interactive.Async.Providers.dll">
+      <Name>System.Interactive.Async.Providers.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.0.2</FileVersion>
+      <InfoVersion>4.0.0+6ce573bea6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.IO.dll">
+      <Name>System.IO.dll</Name>
+      <Version>4.1.1.0</Version>
+      <FileVersion>4.6.24705.01</FileVersion>
+      <InfoVersion>4.6.24705.01. Commit Hash: 4d1af962ca0fede10beb01d197367c2f90e92c97</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Linq.Async.dll">
+      <Name>System.Linq.Async.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.0.2</FileVersion>
+      <InfoVersion>4.0.0+6ce573bea6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Linq.Async.Queryable.dll">
+      <Name>System.Linq.Async.Queryable.dll</Name>
+      <Version>4.0.0.0</Version>
+      <FileVersion>4.0.0.2</FileVersion>
+      <InfoVersion>4.0.0+6ce573bea6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Memory.dll">
+      <Name>System.Memory.dll</Name>
+      <Version>4.0.1.1</Version>
+      <FileVersion>4.6.28619.01</FileVersion>
+      <InfoVersion>4.6.28619.01 @BuiltBy: dlab14-DDVSOWINAGE069 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/7601f4f6225089ffb291dc7d58293c7bbf5c5d4f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Net.Http.Formatting.dll">
+      <Name>System.Net.Http.Formatting.dll</Name>
+      <Version>5.2.6.0</Version>
+      <FileVersion>5.2.60510.0</FileVersion>
+      <InfoVersion>5.2.6-60510 (3155d174ba1d7e281ef0b9bbe78fb10a43aa7450)</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Numerics.Vectors.dll">
+      <Name>System.Numerics.Vectors.dll</Name>
+      <Version>4.1.4.0</Version>
+      <FileVersion>4.6.26515.06</FileVersion>
+      <InfoVersion>4.6.26515.06 @BuiltBy: dlab-DDVSOWINAGE059 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/30ab651fcb4354552bd4891619a0bdd81e0ebdbf</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Runtime.CompilerServices.Unsafe.dll">
+      <Name>System.Runtime.CompilerServices.Unsafe.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Runtime.dll">
+      <Name>System.Runtime.dll</Name>
+      <Version>4.1.1.0</Version>
+      <FileVersion>4.6.24705.01</FileVersion>
+      <InfoVersion>4.6.24705.01. Commit Hash: 4d1af962ca0fede10beb01d197367c2f90e92c97</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Runtime.InteropServices.RuntimeInformation.dll">
+      <Name>System.Runtime.InteropServices.RuntimeInformation.dll</Name>
+      <Version>4.0.1.0</Version>
+      <FileVersion>4.6.24705.01</FileVersion>
+      <InfoVersion>4.6.24705.01. Commit Hash: 4d1af962ca0fede10beb01d197367c2f90e92c97</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Security.AccessControl.dll">
+      <Name>System.Security.AccessControl.dll</Name>
+      <Version>4.1.1.0</Version>
+      <FileVersion>4.6.26515.06</FileVersion>
+      <InfoVersion>4.6.26515.06 @BuiltBy: dlab-DDVSOWINAGE059 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/30ab651fcb4354552bd4891619a0bdd81e0ebdbf</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Security.Cryptography.Encoding.dll">
+      <Name>System.Security.Cryptography.Encoding.dll</Name>
+      <Version>4.0.1.0</Version>
+      <FileVersion>4.6.24705.01</FileVersion>
+      <InfoVersion>4.6.24705.01. Commit Hash: 4d1af962ca0fede10beb01d197367c2f90e92c97</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Security.Cryptography.Primitives.dll">
+      <Name>System.Security.Cryptography.Primitives.dll</Name>
+      <Version>4.0.1.0</Version>
+      <FileVersion>4.6.24705.01</FileVersion>
+      <InfoVersion>4.6.24705.01. Commit Hash: 4d1af962ca0fede10beb01d197367c2f90e92c97</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Security.Cryptography.Xml.dll">
+      <Name>System.Security.Cryptography.Xml.dll</Name>
+      <Version>4.0.1.0</Version>
+      <FileVersion>4.6.26515.06</FileVersion>
+      <InfoVersion>4.6.26515.06 @BuiltBy: dlab-DDVSOWINAGE059 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/30ab651fcb4354552bd4891619a0bdd81e0ebdbf</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Security.Permissions.dll">
+      <Name>System.Security.Permissions.dll</Name>
+      <Version>4.0.1.0</Version>
+      <FileVersion>4.6.26515.06</FileVersion>
+      <InfoVersion>4.6.26515.06 @BuiltBy: dlab-DDVSOWINAGE059 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/30ab651fcb4354552bd4891619a0bdd81e0ebdbf</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Security.Principal.Windows.dll">
+      <Name>System.Security.Principal.Windows.dll</Name>
+      <Version>4.1.1.0</Version>
+      <FileVersion>4.6.26515.06</FileVersion>
+      <InfoVersion>4.6.26515.06 @BuiltBy: dlab-DDVSOWINAGE059 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/30ab651fcb4354552bd4891619a0bdd81e0ebdbf</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Text.Encodings.Web.dll">
+      <Name>System.Text.Encodings.Web.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Text.Json.dll">
+      <Name>System.Text.Json.dll</Name>
+      <Version>6.0.0.0</Version>
+      <FileVersion>6.0.21.52210</FileVersion>
+      <InfoVersion>6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Threading.Tasks.Extensions.dll">
+      <Name>System.Threading.Tasks.Extensions.dll</Name>
+      <Version>4.2.0.1</Version>
+      <FileVersion>4.6.28619.01</FileVersion>
+      <InfoVersion>4.6.28619.01 @BuiltBy: dlab14-DDVSOWINAGE069 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/7601f4f6225089ffb291dc7d58293c7bbf5c5d4f</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.ValueTuple.dll">
+      <Name>System.ValueTuple.dll</Name>
+      <Version>4.0.3.0</Version>
+      <FileVersion>4.6.26515.06</FileVersion>
+      <InfoVersion>4.6.26515.06 @BuiltBy: dlab-DDVSOWINAGE059 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/30ab651fcb4354552bd4891619a0bdd81e0ebdbf</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Web.Http.dll">
+      <Name>System.Web.Http.dll</Name>
+      <Version>5.2.6.0</Version>
+      <FileVersion>5.2.60510.0</FileVersion>
+      <InfoVersion>5.2.6-60510 (3155d174ba1d7e281ef0b9bbe78fb10a43aa7450)</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+    <SitecoreAssemblies Include="System.Web.Http.Owin.dll">
+      <Name>System.Web.Http.Owin.dll</Name>
+      <Version>5.2.6.0</Version>
+      <FileVersion>5.2.60510.0</FileVersion>
+      <InfoVersion>5.2.6-60510 (3155d174ba1d7e281ef0b9bbe78fb10a43aa7450)</InfoVersion>
+      <Source>Sitecore.Assemblies.XConnect.ProcessingEngine</Source>
+    </SitecoreAssemblies>
+  </ItemGroup>
+</Project>
